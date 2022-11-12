@@ -6,8 +6,8 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Frontend Development projects.
+  - 🎓 &nbsp; BTech in Computer Science and Engineering.
+  - 💼 &nbsp; Currently working as Backend Developer.
   - 🌱 &nbsp; Learning more about Backend Architectures.
   - ✍️ &nbsp; Pursuing Competitive Programming .  
 </div> 
