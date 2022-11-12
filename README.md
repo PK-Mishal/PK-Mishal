@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm PK Mishal 👋 </h1>
-<h3 align="center">🚀 Web Developer | JavaScript | React.js ♥ | PWA | Bug Hunter  🚀</h3>
+<h3 align="center">🚀 Web Developer | JavaScript | React.js | Backend Developer♥ | Node.js | Express.js | MongoDB  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
